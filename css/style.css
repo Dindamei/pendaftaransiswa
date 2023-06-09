@@ -1,0 +1,75 @@
+*
+{
+  margin:0;
+  padding:0;
+  font-family:'Josefin Sans', sans-serif;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+  }
+
+.box-formulir {
+  width:35%;
+  margin:100px auto;
+  border:1px solid;
+  background-color: white;
+}
+.box{
+  background-color: rgb(0, 118, 252);
+  border:1px solid #ddd;
+  padding:10px;
+  box-sizing: border-box;
+  margin:5px 0 25px;
+}
+.table-form{
+  width:100%;
+}
+.input-control{
+  padding:5px 10px;
+  font-size: 16px;
+  margin: 4px 0;
+}
+.btn-daftar {
+  padding:12px 17px;
+  background-color: blue;
+  color: #fff;
+  border: none;
+  font-size:16px;
+}
+.container{
+    text-align: right;
+    text-align: center;
+    text-align: justify;
+}
+nav {
+    background-color: blue;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+  }
+  
+  nav ul li {
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 5px;
+  }
+  
+  nav ul li a:hover {
+    background-color: #555;
+  }
+  footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(21, 100, 219);
+    text-align: right;
+    padding: 20px;
+    }
